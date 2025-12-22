@@ -1,4 +1,4 @@
-# Lesson 03 - Git – Working With Others
+# Git – Working With Others
 
 This repository focuses on collaborative workflows in Git, covering how to interact with remote repositories, synchronize changes, and contribute to projects using forks and pull requests.
 
