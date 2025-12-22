@@ -55,9 +55,3 @@ While powerful, the cloud introduces specific challenges:
 - **Dependency:** Requires constant internet connectivity.
 - **Technical Limits:** Potential for latency and limited customization/flexibility.
 - **Management:** Increased management complexity and the risk of **vendor lock-in**.
-
-
-## 📂 Additional Resources
-
-- **Migrations:** Strategies for moving to the cloud.
-- **Case Studies:** Real-world examples of cloud-driven success.
