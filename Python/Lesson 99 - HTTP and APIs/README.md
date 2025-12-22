@@ -12,7 +12,7 @@ This repository provides a foundational understanding of the **HyperText Transfe
 
 ## 🌐 The HTTP Protocol
 
-Specified in 1945, HTTP is the standard protocol for transferring data over the web. It relies on a request-response model between a client (like a browser) and a server.
+Specified in RFC 1945, HTTP is the standard protocol for transferring data over the web. It relies on a request-response model between a client (like a browser) and a server.
 
 
 ### Core Rules
