@@ -1,4 +1,4 @@
-# Lesson 02 - Git Branching
+# Git Branching
 
 This repository covers advanced Git techniques for managing code changes through branching, merging strategies, and conflict resolution.
 
