@@ -1,4 +1,4 @@
-# Executables and Paths
+# Lesson 03 - Executables and Paths
 
 This repository covers the fundamental mechanics of how operating systems locate and run programs, focusing on the relationship between binary files, the environment, and the system path.
 
